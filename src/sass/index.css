@@ -126,4 +126,11 @@ p {
 .anna {
   background-color: crimson;
   color: chartreuse;
+}
+
+.bohda {
+  padding: 30px;
+  font-size: 30px;
+  color: #fff;
+  background-color: rgb(34, 34, 70);
 }/*# sourceMappingURL=index.css.map */
